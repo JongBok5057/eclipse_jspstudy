@@ -12,5 +12,6 @@
 	String str = "이종복";
 	out.println("<h1>"+"str="+str+"</h1>");
 	%>
+	str값 출력=<%=str %>
 </body>
 </html>
